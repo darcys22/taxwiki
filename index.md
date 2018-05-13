@@ -1,10 +1,11 @@
-Welcome to **Snowplow** - the open-source, web-scale analytics platform powered by [Hadoop][hadoop], [Spark][spark], [Hive][hive] and [Redshift][redshift].
+# Welcome to git-wiki demo
 
-This wiki is the main source of documentation for **developers** working with (or contributing to) the Snowplow project. If this is your first time hearing about Snowplow, we recommend starting with the [Snowplow website][website].
+Welcome to **Tax Source ** - the open-source wiki for all your Australian Tax Information Needs.
+
 
 ## Quick navigation
 
-| About Snowplow             | Project & Community              | Setup Guide          | Technical Documentation                  |
+| Individual Tax Returns             | Partnership Tax Returns              | Company Tax Returns          | Trust Tax Returns                  |
 |----------------------------|---------------------------------|-------------------------------|---------------------------|
 | [[/images/help.png]] | [[/images/users.png]] | [[/images/tools.png]] | [[/images/database.png]] |
 | [About Snowplow](Snowplow-overview) | [Project & Community](Snowplow-project-and-community)       | [Setup Guide](Setting-up-Snowplow) | [Technical Documentation](Snowplow-technical-documentation)|

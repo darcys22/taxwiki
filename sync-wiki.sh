@@ -4,9 +4,7 @@
 # in case you're using github internal wiki option
 #
 
-git pull origin master
-cd wiki
-git pull origin master
-cd ..
+git add .
+git add -u
 git commit -a -m "updated wiki"
 git push origin master
