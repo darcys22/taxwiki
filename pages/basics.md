@@ -1,14 +1,14 @@
 [**HOME**](Home) > [Basics](pages/basics)
 
-#Basics of Taxation
+# Basics of Taxation
 
 This page is the starting point for the essential taxation basics that are needed to be understand blah to get blah.
 
-Why do we do tax returns?: there is some legislation called the income tax assessment act that says ... you have to prepare a tax return and establishes the ATO to enforce your legal requirement to do a tax return
+**Why do we do tax returns?:** there is some legislation called the income tax assessment act that says ... you have to prepare a tax return and establishes the ATO to enforce your legal requirement to do a tax return
 
-Who is the ATO?: Big bad government organisation employing thousands of people to do stuff
+**Who is the ATO?:** Big bad government organisation employing thousands of people to do stuff
 
-What do we have to do?: fill out a form commonly known as a tax return that has many fields that are defined in the tax legislation and lodge with the ATO every year.
+**What do we have to do?:** fill out a form commonly known as a tax return that has many fields that are defined in the tax legislation and lodge with the ATO every year.
 
 How do you lodge?: Paper or Electronically - paper is being phased out but you can still mail stuff to place. Otherwise we lodge via the electronic methods. ELS(Electronic Lodgement System) is the aged electronic method which we can lodge a return has similarities to fax in that it dials up the ato sends a bunch of bytes and hangs up. It is being replaced by PLS (Practitioner Lodgement Service) which is a web API that accepts XML.
 

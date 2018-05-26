@@ -4,11 +4,11 @@ Welcome to **Tax Source** - the open-source wiki for all your Australian Tax Inf
 
 ## Quick navigation
 
-| Basics             | Tax Concepts              | Individual Returns          | Other                  |
+| Basics             | Tax Concepts              | Individual Returns          | FAQ                  |
 |----------------------------|---------------------------------|-------------------------------|---------------------------|
 | ![ITR](/images/ITR.png) | ![PTR](/images/PTR.png) | ![ITR](/images/ITR.png) | ![TTR](/images/TTR.png)  |
-| [Start Here](pages/basics) | [Concepts](pages/concepts)       | [Individuals](pages/individuals) | [Trusts](Snowplow-technical-documentation)|
-| Where to begin | Tax Concepts that are in a return| Everything for Individuals| Other stuff that I havent decided yet|
+| [Start Here](pages/basics) | [Concepts](pages/concepts)       | [Individuals](pages/individuals) | [FAQ](pages/faq)|
+| Where to begin | Tax Concepts that are in a return| Everything for Individuals| Frequently Asked Questions|
 
 ## Want to help? 
 
