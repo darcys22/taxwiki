@@ -2,16 +2,13 @@
 
 Welcome to **Tax Source** - the open-source wiki for all your Australian Tax Information Needs.
 
-[test]({ post_url typical })
-
-
 ## Quick navigation
 
-| Individual Tax Returns             | Partnership Tax Returns              | Company Tax Returns          | Trust Tax Returns                  |
+| Basics             | Tax Concepts              | Individual Returns          | Other                  |
 |----------------------------|---------------------------------|-------------------------------|---------------------------|
-| ![ITR](/images/ITR.png) | ![PTR](/images/PTR.png) | ![CTR](/images/CTR.png) | ![TTR](/images/TTR.png)  |
-| [Individuals](Snowplow-overview) | [Partnerships](Snowplow-project-and-community)       | [Companys](Setting-up-Snowplow) | [Trusts](Snowplow-technical-documentation)|
-[comment]: <> (| Individual Tax Returns | About the open-source project, our community and how to contribute | A step-by-step guide to running Snowplow | Detailed technical documentation on Snowplow and its six sub-systems |)
+| ![ITR](/images/ITR.png) | ![PTR](/images/PTR.png) | ![ITR](/images/ITR.png) | ![TTR](/images/TTR.png)  |
+| [Start Here](pages/basics) | [Concepts](pages/concepts)       | [Individuals](pages/individuals) | [Trusts](Snowplow-technical-documentation)|
+| Where to begin | Tax Concepts that are in a return| Everything for Individuals| Other stuff that I havent decided yet|
 
 ## Want to help? 
 
