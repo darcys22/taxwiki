@@ -2,6 +2,8 @@
 
 Welcome to **Tax Source** - the open-source wiki for all your Australian Tax Information Needs.
 
+[test]({ post_url typical })
+
 
 ## Quick navigation
 
