@@ -1,4 +1,4 @@
-[**HOME**](Home) > [Basics](pages/basics)
+[**HOME**](/) > [**Basics**](pages/basics)
 
 # Basics of Taxation
 
