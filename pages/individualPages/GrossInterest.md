@@ -1,0 +1,2 @@
+# Gross Interest
+The amount of total interest from all sources, including interest received from or credited by an associate. Show at Information statement- Calculation of total profit or loss- Income- Gross interest the total interest from all sources including interest received from or credited by an associate.

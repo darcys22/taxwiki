@@ -1,0 +1,2 @@
+# Net Income/Loss From Business Tax Withheld Voluntary Agreement
+This is the value, during the relevant period, for credit for tax withheld from business income under the Pay As You Go (PAYG) arrangement where there was one or more items under PAYG voluntary agreement.

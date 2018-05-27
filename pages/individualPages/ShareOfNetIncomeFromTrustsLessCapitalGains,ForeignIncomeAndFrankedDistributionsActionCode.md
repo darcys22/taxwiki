@@ -1,0 +1,2 @@
+# Share Of Net Income From Trusts Less Capital Gains, Foreign Income And Franked Distributions Action Code
+A code to identify the main type of trust through which the non primary production distribution was received.

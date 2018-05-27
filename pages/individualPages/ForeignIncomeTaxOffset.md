@@ -1,0 +1,2 @@
+# Foreign Income Tax Offset
+This is the value, during the relevant period, for the tax offset credit for foreign tax paid on income, profits or gains that are included in the Australian assessable income.

@@ -1,0 +1,2 @@
+# Other Rental Deductions
+Expenses other than Interest on monies borrowed to finance rental property and capital works deductions incurred in earning rental income and deductibility is allowed under the general deductions  provisions

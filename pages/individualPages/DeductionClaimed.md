@@ -1,0 +1,2 @@
+# Deduction Claimed
+This is the value, during the relevant period, for the total amount of deductions claimed for personal superannuation contributions to a complying superannuation fund or a retirement savings account.

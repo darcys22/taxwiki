@@ -1,0 +1,2 @@
+# Distribution From Partnerships Less Foreign Income
+This is the value, during the relevant period, for the amount of non-primary production income or loss distribution from partnerships less foreign income.

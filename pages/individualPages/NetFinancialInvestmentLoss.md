@@ -1,0 +1,2 @@
+# Net Financial Investment Loss
+This is the value, during the relevant period, for the difference between deductions and income relating to financial investments where the deductions exceed the total income from those investments.

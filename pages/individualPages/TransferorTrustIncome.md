@@ -1,0 +1,2 @@
+# Transferor Trust Income
+The amount of attributed foreign income from transferor trusts. A transferor trust is a trust where, having regard to all relevant circumstances, it would be reasonable to conclude that another entity is, or is likely to be, an attributable taxpayer in relation to the trust.

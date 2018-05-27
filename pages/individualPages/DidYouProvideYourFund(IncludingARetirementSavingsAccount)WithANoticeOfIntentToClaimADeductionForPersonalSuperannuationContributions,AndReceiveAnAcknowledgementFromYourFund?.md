@@ -1,0 +1,2 @@
+# Did You Provide Your Fund (Including A Retirement Savings Account) With A Notice Of Intent To Claim A Deduction For Personal Superannuation Contributions, And Receive An Acknowledgement From Your Fund?
+This indicates whether the entity has provided the superannuation fund with a Notice of Intent (NOI) to claim a deduction for personal superannuation contributions, and received an acknowledgement from the superannuation fund.

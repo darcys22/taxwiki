@@ -1,0 +1,2 @@
+# Tax Withheld Where Australian Business Number Not Quoted
+This is the value, during the relevant period, for credit for tax withheld under the Pay As You Go arrangement from personal services income where an Australian Business Number was not quoted.

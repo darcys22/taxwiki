@@ -1,0 +1,2 @@
+# Share Of Net Income From Trusts Less Capital Gains, Foreign Income And Franked Distributions - Other Income
+This is the value, during the relevant period, for the share of other income, not covered by other categories, from non-primary production trusts less capital gains, foreign income and franked distributions.

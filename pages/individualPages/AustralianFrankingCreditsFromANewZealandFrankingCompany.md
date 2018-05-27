@@ -1,0 +1,2 @@
+# Australian Franking Credits From A New Zealand Franking Company
+This is the value, during the relevant period, for Australian franking credits from a New Zealand company that the entity is entitled to, whether received directly by way of franked dividends or franked non-share dividends by the company, or indirectly through a trust or partnership.

@@ -1,0 +1,2 @@
+# Did You Sell Any Goods Or Services Using The Internet?
+Inform in the affirmative if the entity used the internet to:- receive orders for goods and/or services; - receive payment for goods and/or services; - deliver goods and/or services. Inform in the negative if the entity used the internet only to: - advertise the entity's goods or services - give support to the entity's customers - buy the entity's stock - do the entity's banking online.

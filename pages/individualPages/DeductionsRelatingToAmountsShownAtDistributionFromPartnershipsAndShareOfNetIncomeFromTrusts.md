@@ -1,0 +1,2 @@
+# Deductions Relating To Amounts Shown At Distribution From Partnerships And Share Of Net Income From Trusts
+This is the value, during the relevant period, for the share of deductions (including non-commercial business losses deferred from a prior year) an individual can claim relating to primary production income or loss from a partnership and primary production income of a trust.

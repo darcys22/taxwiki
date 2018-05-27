@@ -1,2 +1,0 @@
-# Amount Of Any Capital Gain Or Loss Made Under A Non-Qualifying Arrangement In The Income Year
-This is the value, during the relevant period, for the overall capital gain or loss made under a non-qualifying earnout arrangement.

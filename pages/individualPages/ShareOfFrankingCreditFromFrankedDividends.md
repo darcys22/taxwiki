@@ -1,0 +1,2 @@
+# Share Of Franking Credit From Franked Dividends
+This is the value, during the relevant period, for the share of any allowable franking credits which are able to be claimed as a franking tax offset through a partnership or trust.

@@ -1,0 +1,1 @@
+# Business Loss Activity Details

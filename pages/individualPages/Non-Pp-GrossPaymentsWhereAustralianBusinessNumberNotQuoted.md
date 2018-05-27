@@ -1,0 +1,2 @@
+# Non-Pp - Gross Payments Where Australian Business Number Not Quoted
+This is the value, during the relevant period, for the income derived from non-primary production activities where tax has been withheld because an Australian Business Number (ABN) was not quoted.

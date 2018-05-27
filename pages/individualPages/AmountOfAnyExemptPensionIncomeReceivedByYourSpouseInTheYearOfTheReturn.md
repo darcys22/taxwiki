@@ -1,0 +1,2 @@
+# Amount Of Any Exempt Pension Income Received By Your Spouse In The Year Of The Return
+This is the value, during the relevant period, for total amount of pension income received by the individual's spouse that does not need to be included as taxable income on the spouse's tax return for the applicable reporting period.

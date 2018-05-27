@@ -1,0 +1,2 @@
+# Early Repayments - Natural Disaster And Drought
+This is the value, during the relevant period, for early repayments from a farm management deposit scheme that qualify for the natural disaster exemptions.

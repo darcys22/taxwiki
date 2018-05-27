@@ -1,0 +1,2 @@
+# Allowances, Earnings, Tips, Director’S Fees Etc Tax Withheld
+This is the value, during the relevant period, for credit for tax withheld under the Pay As You Go arrangement from allowances, earnings, tips, director's fees, etc.

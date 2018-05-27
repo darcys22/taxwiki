@@ -1,0 +1,2 @@
+# Intermediary Declarer Contact Name
+The name of a person represented in a free format text. It may contain a complete name (first, family and other given names) or parts of it. This representation of a person's name is commonly used where the name is not used for proof of identity matching hence it is not required to be strongly validated. Examples of its use are: The name of the person who is used as a contact on behalf of an Organisation or the name of the recipient of a correspondence.

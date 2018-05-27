@@ -1,0 +1,2 @@
+# Reporting Party Declarer Identifier
+Identifier defined and used by the ABR device credential holder to identify a user.  The user identifier must allow the ABR credential owner or an external auditor to uniquely identify the individual that made the declaration.

@@ -1,0 +1,2 @@
+# Work Related Uniform, Occupation Specific Or Protective Clothing, Laundry And Dry Cleaning Expenses Action Code
+This identifies the main type of work related uniform, protective clothing, dry cleaning expenses to be claimed.

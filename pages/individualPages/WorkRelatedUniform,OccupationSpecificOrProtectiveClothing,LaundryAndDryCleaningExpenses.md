@@ -1,0 +1,2 @@
+# Work Related Uniform, Occupation Specific Or Protective Clothing, Laundry And Dry Cleaning Expenses
+This is the value, during the relevant period, for work related uniform, occupation specific or protective clothing, laundry and dry cleaning expenses that an individual incurs in the course of performing a job as an employee.

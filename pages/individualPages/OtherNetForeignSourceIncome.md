@@ -1,0 +1,2 @@
+# Other Net Foreign Source Income
+This is the value, during the relevant period, for assessable income derived by the business entity from foreign sources grossed up by the amount of the foreign tax, but net of expenses.

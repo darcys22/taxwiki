@@ -1,0 +1,2 @@
+# Your Share Of Deferred Losses From Partnership Activities
+This is the value, during the relevant period, for the share of net losses from business activities that an individual carried on in partnership that are to be deferred.

@@ -1,0 +1,2 @@
+# Income From Investment, Partnership And Other Sources Indicator
+This indicates whether the individual made an eligible personal superannuation contribution (for which they are not claiming a deduction) to a complying superannuation fund or retirement savings account.

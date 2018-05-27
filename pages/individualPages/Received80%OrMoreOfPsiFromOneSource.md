@@ -1,0 +1,2 @@
+# Received 80% Or More Of Psi From One Source
+This indicates if any individual did not satisfy the results test or hold a Personal Services Business (PSB) determination and 80% or more of their Personal Services Income (PSI) came from one source.

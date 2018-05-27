@@ -1,0 +1,2 @@
+# Number Of Months Eligible For Part-Year Tax-Free Threshold
+This is the number of months the individual is an Australian resident for the reporting period during which they are eligible for the tax free threshold.

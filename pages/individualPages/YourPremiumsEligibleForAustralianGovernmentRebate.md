@@ -1,0 +1,2 @@
+# Your Premiums Eligible For Australian Government Rebate
+This is the value, during the relevant period, for the component of the private health insurance premiums that are eligible for the Australian Government rebate.

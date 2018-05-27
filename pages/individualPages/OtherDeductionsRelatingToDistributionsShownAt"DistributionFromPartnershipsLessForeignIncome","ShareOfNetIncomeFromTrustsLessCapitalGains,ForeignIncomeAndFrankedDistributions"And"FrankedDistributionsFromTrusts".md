@@ -1,0 +1,2 @@
+# Other Deductions Relating To Distributions Shown At "Distribution From Partnerships Less Foreign Income", "Share Of Net Income From Trusts Less Capital Gains, Foreign Income And Franked Distributions" And "Franked Distributions From Trusts"
+This is the value, during the relevant period, for the other deductions from non primary production income from trusts and partnerships.

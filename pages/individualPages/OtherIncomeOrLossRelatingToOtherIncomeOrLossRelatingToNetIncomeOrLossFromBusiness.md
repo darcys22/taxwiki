@@ -1,0 +1,2 @@
+# Other Income Or Loss Relating To Other Income Or Loss Relating To Net Income Or Loss From Business
+This is the value, during the relevant period, for the net income derived from other non-primary production sources that are not covered by other categories.

@@ -1,0 +1,2 @@
+# Australian Superannuation Lump Sum Payments - Death Benefit Was Made To A Non Dependant
+This indicates whether an Australian superannuation lump sum payment was a death benefit payment to a non dependant.

@@ -1,0 +1,2 @@
+# Adjusted Taxable Income
+This is the value, during the relevant period, for an individual's adjusted taxable income, which is the taxable income adjusted to include specific additional income and loss amounts.

@@ -1,0 +1,2 @@
+# Your Spouse'S Target Foreign Income
+This is the value, during the relevant period, for target foreign income where the amount has neither been included in taxable income, nor received in the form of a fringe benefit.

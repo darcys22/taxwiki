@@ -1,0 +1,2 @@
+# Managed Investment Scheme Deductions Relating To Amounts Shown At "Share Of Net Income From Trusts Less Capital Gains, Foreign Income And Franked Distributions" And "Franked Distributions From Trusts"
+This is the value, during the relevant period, for the deductions from non primary production income from trusts excluding capital gains and foreign income.

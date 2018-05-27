@@ -1,2 +1,0 @@
-# Small Business Capital Gains 15 Year Exemption - Exempt Capital Gains
-The total amount of any capital gains disregarded by the small business under the applicable exemption relating to the number of years that the asset has been held.

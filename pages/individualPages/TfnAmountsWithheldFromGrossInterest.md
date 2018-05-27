@@ -1,0 +1,2 @@
+# Tfn Amounts Withheld From Gross Interest
+This is the value, during the relevant period, for Tax File Number (TFN) amounts withheld from gross interest where a TFN has not been provided to the financial institution.

@@ -1,0 +1,2 @@
+# Tax Withheld - Labour Hire Or Other Specified Payments
+This is the value, during the relevant period, for credit for tax withheld under the Pay As You Go arrangement from personal services income related to labour hire or other payments.

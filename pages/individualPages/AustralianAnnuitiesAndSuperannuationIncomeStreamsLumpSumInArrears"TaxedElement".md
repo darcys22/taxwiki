@@ -1,0 +1,2 @@
+# Australian Annuities And Superannuation Income Streams Lump Sum In Arrears "Taxed Element"
+This is the value, during the relevant period, for the taxed element of the taxable component for Australian annuities and superannuation income streams lump sum in arrears.

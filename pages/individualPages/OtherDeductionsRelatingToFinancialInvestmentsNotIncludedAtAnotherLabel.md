@@ -1,0 +1,2 @@
+# Other Deductions Relating To Financial Investments Not Included At Another Label
+This is the value, during the relevant period, for deductions relating to financial investments, not classified elsewhere.

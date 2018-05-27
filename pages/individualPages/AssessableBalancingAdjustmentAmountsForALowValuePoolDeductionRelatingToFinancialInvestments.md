@@ -1,0 +1,2 @@
+# Assessable Balancing Adjustment Amounts For A Low Value Pool Deduction Relating To Financial Investments
+This is the value, during the relevant period, for the income tax assessable low value pool deductions from financial investments not covered by categories elsewhere.

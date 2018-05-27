@@ -1,0 +1,2 @@
+# Your Spouse'S Section 98 Trust Income - Not Included In Spouse'S Taxable Income
+This is the value, during the relevant period, for the amount of net income of a trust that the trustee was liable to pay tax on because the individual's spouse was under a legal disability.

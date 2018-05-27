@@ -1,0 +1,2 @@
+# Small Business Entity Simplified Depreciation - Deduction For Certain Assets
+This is the value, during the relevant period, for depreciation deductions under the category of low-cost assets for small business entities.

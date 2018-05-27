@@ -1,0 +1,2 @@
+# Psi Where Australian Business Number Not Quoted
+This is the value, during the relevant period, for personal services income received from which an amount has been withheld because an Australian Business Number was not quoted, including the amounts of tax withheld.

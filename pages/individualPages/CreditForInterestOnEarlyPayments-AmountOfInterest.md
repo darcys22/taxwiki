@@ -1,0 +1,2 @@
+# Credit For Interest On Early Payments - Amount Of Interest
+An amount of interest credit that is received where an actual payment is made on account and is paid before the due date of payment. Amounts which may attract early payment interest are payments of: Income tax and Interest payable under Section 102AAM. Early payments interest is calculated from the date the early payment is made to the date the amount becomes due and payable.

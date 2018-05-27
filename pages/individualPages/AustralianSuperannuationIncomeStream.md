@@ -1,0 +1,7 @@
+# Australian Superannuation Income Stream
+It is an amount that reduces the amount of tax payable. It represents either 10% of the element untaxed in the fund of the taxable component or 15% of the element taxed in the fund of the taxable component as follows:
+- 10% of the element untaxed in the fund where a person aged 60 and over receives a superannuation income stream. 
+- 15% of the element taxed in the fund where a person aged less than 60 years, who has reached preservation age, receives a superannuation income stream.
+- 15% of the element taxed in the fund where a person aged less than preservation age receives a disability superannuation income stream. 
+- 15% of the element taxed in the fund where the person is in receipt of a superannuation income stream because of the death of another person of whom the person is a dependant and where the person is under 60 years of age when they receive the benefit and the deceased died before aged 60.
+- 10% of the element untaxed in the fund where the person is in receipt of a superannuation income stream because of the death of another person of whom the person is a dependant and where the person is aged 60 or more when they receive the benefit or the deceased died aged 60 or more.

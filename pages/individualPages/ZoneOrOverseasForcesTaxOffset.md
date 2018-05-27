@@ -1,0 +1,2 @@
+# Zone Or Overseas Forces Tax Offset
+This is the value, during the relevant period, for the tax offset claimed by the individual whose usual residence was in a remote or isolated area of Australia, not including an offshore oil or gas rig, or served overseas as a member of the Australian Defence Force or a United Nations armed force.

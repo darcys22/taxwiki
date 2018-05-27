@@ -1,0 +1,2 @@
+# Non-Pp - Assessable Government Industry Payments
+This is the value, during the relevant period, for government credits, grants, rebates, bounties and subsidies related to non-primary production that are received in relation to the carrying on of a business.

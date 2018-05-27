@@ -1,0 +1,2 @@
+# Total Reportable Fringe Benefits Amount From Employers Exempt Under Section 57A
+This is the value, during the relevant period, for reportable fringe benefit provided to an employee (or their associate, such as a family member) in respect of employment.

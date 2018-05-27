@@ -1,0 +1,2 @@
+# Net Rental Property Loss
+This is the value, during the relevant period, for the difference between deductions and income relating to rental property where the deductions exceed the total income from the property.

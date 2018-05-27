@@ -1,0 +1,2 @@
+# Non-Pp - Assessable Government Industry Payments Action Code
+This indicates if the individual's assessable non-primary production government industry payments include a fuel grant under the energy grants credits scheme or fuel tax credits.

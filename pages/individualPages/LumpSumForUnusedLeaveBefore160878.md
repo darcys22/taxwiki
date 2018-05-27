@@ -1,0 +1,2 @@
+# Lump Sum For Unused Leave Before 16/08/78
+This is the value, during the relevant period, for payments received for unused annual leave or unused long service leave that accrued before 16 August 1978.

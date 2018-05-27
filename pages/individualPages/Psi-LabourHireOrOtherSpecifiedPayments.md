@@ -1,0 +1,2 @@
+# Psi - Labour Hire Or Other Specified Payments
+This is the value, during the relevant period, for personal services income received from labour hire or other specified payments, including the amounts of tax withheld.

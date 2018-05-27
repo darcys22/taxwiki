@@ -1,0 +1,2 @@
+# Termination Value Of Other Depreciating Assets
+The total of the termination values of depreciating assets for which a balancing adjustment event occurred in the income year, excluding intangible depreciating assets, and including assets that are allocated to a low-value pool.

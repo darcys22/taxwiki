@@ -1,0 +1,2 @@
+# Psi - Voluntary Agreement
+This is the value, during the relevant period, for personal services income received that was subject to a Pay As You Go voluntary agreement, including amounts of tax withheld.

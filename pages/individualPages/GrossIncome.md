@@ -1,0 +1,2 @@
+# Gross Income
+This is the value, during the relevant period, for the amount of salary, wages, bonuses and commissions paid to the payee as an employee, company director or office holder, before taxes are withheld.

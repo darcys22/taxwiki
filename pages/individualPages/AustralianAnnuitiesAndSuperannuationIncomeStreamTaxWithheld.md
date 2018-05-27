@@ -1,0 +1,2 @@
+# Australian Annuities And Superannuation Income Stream Tax Withheld
+This is the value, during the relevant period, for credit for tax withheld under the Pay As You Go arrangement from an individual's Australian annuities and superannuation income stream.

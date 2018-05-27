@@ -1,0 +1,2 @@
+# Capital Works Deductions
+The deduction claimed for capital expenditure on special buildings, which includes eligible capital expenditure on extensions, alterations or improvements. Exclude capital expenditure for mining infrastructure buildings and timber milling buildings.

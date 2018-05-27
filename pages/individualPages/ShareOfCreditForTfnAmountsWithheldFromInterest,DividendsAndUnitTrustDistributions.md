@@ -1,0 +1,2 @@
+# Share Of Credit For Tfn Amounts Withheld From Interest, Dividends And Unit Trust Distributions
+This is the value, during the relevant period, for the total credit for tax withheld under the Pay As You Go arrangement from interest received from investments where a Tax File Number (TFN) was not quoted.

@@ -1,0 +1,2 @@
+# Industry Code
+This is a code to identify the main business activity during the relevant period. The industry coding regime is a modified version of the Australian and New Zealand Standard Industrial Classification (ANZSIC), produced jointly by the Australian Bureau of Statistics (ABS) and Statistics New Zealand. The industry code is made up of five digits, where the leading two digits denote the industry division.

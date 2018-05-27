@@ -1,0 +1,2 @@
+# Had A Cgt Event During The Year
+A CGT event occurs when a transaction results in a capital gain or capital loss, e.g. the sale of a CGT asset or receipt of a distribution of a capital gain from another entity.

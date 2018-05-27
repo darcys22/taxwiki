@@ -1,0 +1,2 @@
+# Other Deductions Relating To Amounts Shown At "Distribution From Partnerships Less Foreign Income", "Share Of Net Income From Trusts Less Capital Gains, Foreign Income And Franked Distributions" And "Franked Distributions From Trusts" Type
+A code to describe business losses from a prior year that the individual is claiming from their share of non-primary production income or loss from a partnership, and non-primary production income of a trust, including any deductions relating to franked distributions from trusts.

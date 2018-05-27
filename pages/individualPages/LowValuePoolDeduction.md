@@ -1,0 +1,2 @@
+# Low Value Pool Deduction
+This is the value, during the relevant period, for low value pool deductions. Low value pool deductions are deductions that can be claimed for the decline in value of low-cost and low-value assets.

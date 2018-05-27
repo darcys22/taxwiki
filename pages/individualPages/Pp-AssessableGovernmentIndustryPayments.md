@@ -1,0 +1,2 @@
+# Pp - Assessable Government Industry Payments
+This is the value, during the relevant period, for the government credits, grants, rebates, bounties and subsidies related to primary production that are received in relation to the carrying on of a business.

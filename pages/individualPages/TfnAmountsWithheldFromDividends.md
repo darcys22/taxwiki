@@ -1,0 +1,2 @@
+# Tfn Amounts Withheld From Dividends
+This is the value, during the relevant period, for credit for the Tax File Number (TFN) amount withheld from dividends under the Pay As You Go arrangement that have not been refunded.  TFN amount is the tax withheld from dividends and some distributions by investment bodies because a TFN or Australian Business Number is not provided.

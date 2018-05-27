@@ -1,0 +1,2 @@
+# Franked Distributions From Trusts - Other
+This is the value, during the relevant period, for the share of income not covered by other categories from non-primary production trusts franked investment distributions.

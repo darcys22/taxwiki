@@ -1,0 +1,2 @@
+# Share Of Net Rental Property Income Or Loss From Partnerships
+This is the value, during the relevant period, for the supplementary income from non-primary production distribution from partnership rentals less foreign income.

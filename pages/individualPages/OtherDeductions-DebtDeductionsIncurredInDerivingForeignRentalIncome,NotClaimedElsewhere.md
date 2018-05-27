@@ -1,0 +1,2 @@
+# Other Deductions - Debt Deductions Incurred In Deriving Foreign Rental Income, Not Claimed Elsewhere
+This is the value, during the relevant period, for debt deductions incurred in deriving foreign rental income, not categorised elsewhere.

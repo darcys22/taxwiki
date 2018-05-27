@@ -1,0 +1,2 @@
+# Payer'S - Withholder Payer Number
+The Withholding Payer Number (WPN) is allocated to clients who have withholding obligations under Pay As You Go (PAYG) withholding but who do not have an Australian Business Number (ABN). Its primary purpose is for quotation on payment summaries issued to their employees. For example, private individuals not carrying on an enterprise employing a nanny or housekeeper, would be allocated a WPN.

@@ -1,0 +1,2 @@
+# Your Share Of Deferred Losses From Partnership Activities - From Carrying On A Business Of Investing
+This is the value, during the relevant period, for the share of deferred non-commercial business losses from partnership investment activities.

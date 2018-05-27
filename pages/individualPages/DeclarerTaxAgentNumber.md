@@ -1,0 +1,2 @@
+# Declarer Tax Agent Number
+An external identifier issued by the ATO on behalf of the Tax Agent's Board.  It is used to uniquely identify an individual who has been registered by the Board as a Tax Agent.

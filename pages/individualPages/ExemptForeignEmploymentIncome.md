@@ -1,0 +1,2 @@
+# Exempt Foreign Employment Income
+This is the value, during the relevant period, for foreign income that is exempt from tax, less any expenses that are not capital in nature, that the individual incurred in earning that exempt income.

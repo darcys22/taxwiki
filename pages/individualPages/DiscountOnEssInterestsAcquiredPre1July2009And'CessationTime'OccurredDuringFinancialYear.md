@@ -1,0 +1,2 @@
+# Discount On Ess Interests Acquired Pre 1 July 2009 And 'Cessation Time' Occurred During Financial Year
+This is the value, during the relevant period, for the difference between the market value of the employee share scheme interests and the amount the individual paid to acquire the shares under the employee share scheme for interests acquired before 1 July 2009.

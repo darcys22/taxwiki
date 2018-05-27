@@ -1,0 +1,2 @@
+# Australian Superannuation Lump Sum Payments Taxable Component "Taxed Element"
+This is the value, during the relevant period, for the taxed element of the taxable component for Australian superannuation lump sum payments.

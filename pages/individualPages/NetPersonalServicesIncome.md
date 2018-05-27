@@ -1,0 +1,2 @@
+# Net Personal Services Income
+This is the value, during the relevant period, for the total of the personal services income to be attributed to individuals, less any deductions claimable against that income.

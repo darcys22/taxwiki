@@ -1,0 +1,2 @@
+# Partnership Deductions Relating To Rental Property Income Or Loss Shown At "Distribution From Partnerships Less Foreign Income"
+This is the value, during the relevant period, for the deductions from non primary production from partnerships rental income.

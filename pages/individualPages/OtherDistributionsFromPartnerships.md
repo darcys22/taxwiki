@@ -1,0 +1,2 @@
+# Other Distributions From Partnerships
+This is the value, during the relevant period, for the income from non-primary production distribution from partnerships not covered by other categories, less foreign income.

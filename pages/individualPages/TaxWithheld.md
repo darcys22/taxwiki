@@ -1,0 +1,2 @@
+# Tax Withheld
+This is the value, during the relevant period, for credit for tax withheld under the Pay As You Go arrangement from salary or wage as required to be remitted by the employer to the tax authorities on behalf of the employee.

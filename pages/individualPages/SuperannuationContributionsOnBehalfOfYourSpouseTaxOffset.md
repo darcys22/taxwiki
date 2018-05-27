@@ -1,0 +1,2 @@
+# Superannuation Contributions On Behalf Of Your Spouse Tax Offset
+This is the value, during the relevant period, for tax offsets claimed for superannuation contributions on behalf of the individual's spouse.

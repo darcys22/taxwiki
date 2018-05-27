@@ -1,0 +1,2 @@
+# Net Income/Loss From Business Tax Withheld - Foreign Resident Withholding (Excluding Capital Gains)
+This is the value, during the relevant period, for credit for tax withheld from business income under the Pay As You Go arrangement where one or more items were subject to foreign resident withholding.

@@ -1,0 +1,2 @@
+# Australian Government Allowances And Payments Like Newstart, Youth Allowance And Austudy Payment
+This is the value, during the relevant period, for the amount of income received from the Australian Government in the form of allowances and payments.

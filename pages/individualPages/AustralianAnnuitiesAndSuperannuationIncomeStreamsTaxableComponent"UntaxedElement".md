@@ -1,0 +1,2 @@
+# Australian Annuities And Superannuation Income Streams Taxable Component "Untaxed Element"
+This is the value, during the relevant period, for the untaxed element of the taxable component for Australian annuities and superannuation income streams.

@@ -1,0 +1,2 @@
+# Share Of Credit For Foreign Resident Withholding Amounts (Excluding Capital Gains)
+This is the value, during the relevant period, for the total share of credit for tax withheld under the Pay As You Go arrangement from foreign resident withholding.

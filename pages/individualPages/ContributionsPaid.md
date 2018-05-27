@@ -1,0 +1,2 @@
+# Contributions Paid
+A contribution made by an individual for their spouse's benefit. Includes where an employee directs an employer to make after-tax contributions on behalf of the employee's spouse (eg: by payroll deduction).

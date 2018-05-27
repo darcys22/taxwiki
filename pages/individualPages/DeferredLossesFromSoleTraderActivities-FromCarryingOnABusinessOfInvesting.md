@@ -1,0 +1,2 @@
+# Deferred Losses From Sole Trader Activities - From Carrying On A Business Of Investing
+This is the value, during the relevant period, for deferred non-commercial business losses from sole trader investment activities.

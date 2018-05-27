@@ -1,0 +1,2 @@
+# Hours Taken To Prepare And Complete The Bpi Section
+This is the number of hours taken to complete the form or section (excluding minutes). It includes the time spent reading the instructions, working on the questions and obtaining the information, as well as the time spent by all employees of the business/organisation in collecting and providing the information.

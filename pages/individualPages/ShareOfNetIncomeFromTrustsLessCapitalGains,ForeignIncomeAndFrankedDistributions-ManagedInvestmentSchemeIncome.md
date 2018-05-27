@@ -1,0 +1,2 @@
+# Share Of Net Income From Trusts Less Capital Gains, Foreign Income And Franked Distributions - Managed Investment Scheme Income
+This is the value, during the relevant period, for the share of income from non-primary production trusts managed investments less capital gains, foreign income and franked distributions.

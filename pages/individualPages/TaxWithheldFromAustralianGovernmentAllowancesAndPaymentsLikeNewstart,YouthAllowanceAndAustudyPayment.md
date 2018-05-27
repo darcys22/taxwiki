@@ -1,0 +1,2 @@
+# Tax Withheld From Australian Government Allowances And Payments Like Newstart, Youth Allowance And Austudy Payment
+This is the value, during the relevant period, for credit for tax withheld under the Pay As You Go arrangement from Australian Government allowances and payments.

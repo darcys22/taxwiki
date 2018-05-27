@@ -1,0 +1,2 @@
+# Income From A Financial Investment Not Included At Another Label
+This is the value, during the relevant period, for the income tax assessable financial investments not covered by categories elsewhere.

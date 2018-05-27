@@ -1,0 +1,2 @@
+# Deductible Amount Of Upp Of Foreign Pension Or Annuity
+This is the value, during the relevant period, for the undeductible purchase price (UPP), which is the amount contributed by the individual towards the purchase price of their foreign pension or annuity (personal contributions).

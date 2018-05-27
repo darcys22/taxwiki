@@ -1,0 +1,2 @@
+# Other Net Foreign Source Income - Dividend Income Or Managed Investment Scheme Income From Foreign Companies - Including From Foreign Partnerships
+This is the value, during the relevant period, for foreign source income from companies not categorised elsewhere.

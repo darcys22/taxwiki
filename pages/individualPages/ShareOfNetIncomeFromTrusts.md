@@ -1,0 +1,2 @@
+# Share Of Net Income From Trusts
+This is the value, during the relevant period, for the amount of gross distributions from trusts, including any share of franking credits attributable to dividends paid by an Australian company as advised by the trustee.

@@ -1,0 +1,2 @@
+# Small Business Entity Simplified Depreciation - Deduction For General Small Business Pool
+This is the value, during the relevant period, for depreciation deductions under the category of general pool and general pool (half rate) for small business entities.

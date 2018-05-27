@@ -1,0 +1,2 @@
+# Personal Superannuation Contributions - Fund Tfn
+A unique number issued by the Tax Office to individuals and organisations to identify their tax records. It increases the efficiency in administering tax and other Australian Government systems such as income support payments. It is also used as the identifier for clients' income tax roles. A Tax File Number (TFN) can be used externally only for communication with the Tax Office, either directly by the client, or by an external organisation that is required to collect and quote the client's TFN to the Tax Office.

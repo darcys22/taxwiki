@@ -1,0 +1,2 @@
+# Distribution From Partnerships Relating To Financial Investments, Less Foreign Income
+This is the value, during the relevant period, for the income from non-primary production distribution from partnership investments less foreign income.

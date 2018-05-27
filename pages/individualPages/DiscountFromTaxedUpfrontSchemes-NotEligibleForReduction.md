@@ -1,0 +1,2 @@
+# Discount From Taxed Upfront Schemes - Not Eligible For Reduction
+This is the value, during the relevant period, for employee share scheme discounts received from a taxed upfront scheme that is not eligible for reduction.

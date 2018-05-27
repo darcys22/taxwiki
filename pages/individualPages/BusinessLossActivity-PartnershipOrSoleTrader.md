@@ -1,0 +1,2 @@
+# Business Loss Activity - Partnership Or Sole Trader
+The legal or business structure of an organisation. It determines the nature of the organisation's business as described by the Australian Standard 4590.

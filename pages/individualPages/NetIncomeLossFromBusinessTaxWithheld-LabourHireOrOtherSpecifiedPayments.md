@@ -1,0 +1,2 @@
+# Net Income/Loss From Business Tax Withheld - Labour Hire Or Other Specified Payments
+This is the value, during the relevant period, for credit for tax withheld from business income under the Pay As You Go arrangement where one or more items of labor hire or other specified payments were subject to withholding.

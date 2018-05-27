@@ -1,0 +1,2 @@
+# Australian Superannuation Lump Sum Payments "Tax Withheld Amount"
+This is the value, during the relevant period, for credit for tax withheld under the Pay As You Go arrangement from Australian superannuation lump sum payments.

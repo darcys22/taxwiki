@@ -1,0 +1,2 @@
+# Your Share Of Deferred Losses From Partnership Activities - Other
+This is the value, during the relevant period, for the share of deferred non-commercial business losses from partnership activities not covered by categories elsewhere.

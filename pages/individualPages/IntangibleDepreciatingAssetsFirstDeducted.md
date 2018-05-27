@@ -1,0 +1,2 @@
+# Intangible Depreciating Assets First Deducted
+This is the value, during the relevant period, for the cost of all intangible depreciating assets for which the entity is claiming a deduction for the decline in value for the first time.

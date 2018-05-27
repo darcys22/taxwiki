@@ -1,0 +1,2 @@
+# Amount Of Any Australian Government Pensions And Allowances Received By Your Spouse In The Year Of The Return
+The total of payments received from the Australian government for pensions or allowances.

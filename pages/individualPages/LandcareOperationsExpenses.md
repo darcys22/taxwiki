@@ -1,0 +1,2 @@
+# Landcare Operations Expenses
+This is the value, during the relevant period, for the share of the total of any eligible expenditure on landcare operations that relates to non-primary production income or loss from partnerships that can be deducted during current reporting period.

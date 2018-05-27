@@ -1,0 +1,2 @@
+# Landcare Operations And Deduction For Decline In Value Of Water Facility, Fencing Asset And Fodder Storage Asset
+This is the value, during the relevant period, for the expenses incurred in landcare operations and accelerated depreciation.

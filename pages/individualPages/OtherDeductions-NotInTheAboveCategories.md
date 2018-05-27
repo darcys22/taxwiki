@@ -1,0 +1,2 @@
+# Other Deductions - Not In The Above Categories
+This is the value, during the relevant period, for deductions not relating to financial investments nor foreign rental income and not classified elsewhere.

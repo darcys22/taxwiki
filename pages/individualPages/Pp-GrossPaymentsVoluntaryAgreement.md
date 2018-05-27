@@ -1,0 +1,2 @@
+# Pp -  Gross Payments Voluntary Agreement
+This is the value, during the relevant period, for the income derived from primary production activities that were subject to a voluntary agreement to withhold tax and include the tax withheld.

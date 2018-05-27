@@ -1,0 +1,2 @@
+# Activity - Deferred Non-Commercial Loss From A Prior Year
+This is the value, during the relevant period, for the amount of deferred non-commercial business loss from a prior year for a business activity.

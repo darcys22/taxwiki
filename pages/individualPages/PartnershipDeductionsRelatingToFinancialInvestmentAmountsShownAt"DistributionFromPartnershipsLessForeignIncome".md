@@ -1,0 +1,2 @@
+# Partnership Deductions Relating To Financial Investment Amounts Shown At "Distribution From Partnerships Less Foreign Income"
+This is the value, during the relevant period, for the deductions from non primary production income from trusts excluding foreign income.

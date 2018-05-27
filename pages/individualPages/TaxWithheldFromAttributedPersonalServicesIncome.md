@@ -1,0 +1,2 @@
+# Tax Withheld From Attributed Personal Services Income
+This is the value, during the relevant period, for credit for tax withheld under the Pay As You Go arrangement from personal services income attributed to an individual.

@@ -1,0 +1,2 @@
+# Tax Withheld - Lump Sum Payments In Arrears
+This is the value, during the relevant period, for the amount of credit for tax withheld under the Pay As You Go arrangement from lump sum payments related to an earlier income year or years with respect to category one or category two other income.

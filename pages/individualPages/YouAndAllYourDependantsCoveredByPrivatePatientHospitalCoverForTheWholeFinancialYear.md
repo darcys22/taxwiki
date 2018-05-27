@@ -1,0 +1,2 @@
+# You And All Your Dependants Covered By Private Patient Hospital Cover For The Whole Financial Year
+This indicates if the individual and all their dependants were covered by private patient hospital cover for the applicable reporting period.

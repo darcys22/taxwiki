@@ -1,2 +1,0 @@
-# Capital Gains Disregarded By A Demerging Entity
-The amount of capital gains exempt from Capital Gains Tax (CGT) as a result of an entity demerger. An entity demerger is a restructure in which owners of interests or shares in a head company gain direct ownership of an entity which was previously owned indirectly by the head company, via the ownership of interests or shares.

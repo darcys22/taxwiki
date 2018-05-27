@@ -1,0 +1,2 @@
+# Credit For Tfn Amounts Withheld From Payments From Closely Held Trusts
+This is the value, during the relevant period, for the share of credit for tax withheld under the Pay As You Go arrangement from payments from closely held trusts.

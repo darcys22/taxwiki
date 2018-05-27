@@ -1,0 +1,2 @@
+# Distribution From Partnerships
+This is the value, during the relevant period, for the amount of the gross distribution from all partnerships, including any share of franking credits attributable to dividends paid by an Australian company.

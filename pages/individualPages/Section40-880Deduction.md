@@ -1,0 +1,2 @@
+# Section 40-880 Deduction
+The total of the company's deductions allowable under section 40-880. Section 40-880 provides a five-year write-off for certain business-related capital expenditure provided that no other provision either takes the expenditure into account or denies a deduction.

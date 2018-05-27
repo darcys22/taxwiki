@@ -1,0 +1,2 @@
+# Total Net Medical Expenses For Disability Aids, Attendant Care Or Aged Care
+This is the value, during the relevant period, for the tax offset for medical expenses less refunds from Medicare and private health insurers.

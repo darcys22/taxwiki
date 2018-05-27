@@ -1,0 +1,2 @@
+# Non-Pp - Gross Payments Subject To Foreign Resident Withholding (Excluding Capital Gains)
+This is the value, during the relevant period, for the income derived from non-primary production activities which is subject to foreign resident withholding.
