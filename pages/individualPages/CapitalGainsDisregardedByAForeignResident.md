@@ -1,0 +1,2 @@
+# Capital Gains Disregarded By A Foreign Resident
+The amount of capital gains exempt from Capital Gains Tax (CGT) where a foreign resident or the trustee of a foreign trust for CGT purposes has experienced a CGT event (transaction) during the income year

@@ -1,0 +1,2 @@
+# Are You A Party To An Earnout Arrangement?
+A code to identify a reporting party who has either sold or bought an income earning asset and is eligible to receive or administer additional income, as a result of income generated from the asset, post sale.

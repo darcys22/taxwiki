@@ -1,0 +1,2 @@
+# Shares In Companies Listed On An Australian Securities Exchange - Capital Loss
+The total amount of capital losses incurred from the sale of or transactions in relation to capital assets. The capital loss incurred may also be applied to reduce capital gains.
