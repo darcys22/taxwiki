@@ -1,7 +1,5 @@
 # Listing of All Fields in Individual Return 
 
-[Header Information](HeaderInformation.md)
-
 [Year Of Return](YearOfReturn.md)
 
 [Date Financial Year From](DateFinancialYearFrom.md)
