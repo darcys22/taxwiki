@@ -4,7 +4,8 @@ Tax consists mostly smaller concepts that all sum together to give you your taxa
 
 ## Australian Resident
 
-## Tax File Number
+[## Tax File Number] ({{ site.baseurl }}{% link pages/concepts/tfn.md %}) 
+The identification that every entity has that helps the Tax Office keep track
 
 ## Income
 
