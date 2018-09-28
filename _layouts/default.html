@@ -67,12 +67,6 @@
           </script>
           <gcse:search></gcse:search>
         {% else %}
-          <form method="GET" action="{{ site.github.repository_url }}/search">
-            {% if site.use_github_wiki %}
-              <input type="hidden" name="type" value="Wikis">
-            {% endif %}
-            <input type="text" name="q" placeholder="Text to search"><input type="submit" value="Search">
-          </form>
         {% endif %}
       </div>
         
