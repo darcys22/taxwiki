@@ -1,3 +1,4 @@
+
 Firstly a disclaimer: taxation legislation is, in general, a bunch of rules band-aided together. Specific circumstances matter a lot so don't rely on this for more than a starting point for your own research.
 
 Business Income
@@ -98,7 +99,7 @@ Straight from the
 >You've made a decision to start a business and have done something about it to operate in a businesslike manner, such as registered a business name, or
 obtained an ABN.
  
->You intend to make a profit – or genuinely believe you will make a profit from the activity – even if you are unlikely to do so in the short term.
+>You intend to make a profit Â– or genuinely believe you will make a profit from the activity Â– even if you are unlikely to do so in the short term.
 
 >You repeat similar types of activities.
 The size or scale of your activity is consistent with other businesses in your industry.
@@ -220,7 +221,7 @@ Varies on case by case basis, just because an item is on this list does not mean
 
 ## Estate Planning ######
 
-Estate planning involves developing a strategy to deal with your assets after you die – the legal instruments and structures, such as a will, you put in place to transfer your assets in the event of death.
+Estate planning involves developing a strategy to deal with your assets after you die Â– the legal instruments and structures, such as a will, you put in place to transfer your assets in the event of death.
 
 It is important to participate in Estate Planning, and also very important to not Comprimise security, 
 
@@ -237,11 +238,11 @@ If you offer an exchange service, receive a commission or fee & are carrying on 
 
 in order of largest AUD volume per 24hrs as at date of writing (sept 2018)
 
-85\. BTC Markets - 
+85\. BTC Markets -Â 
 
-116\. Independent Reserve - 
+116\. Independent Reserve -Â 
 
-121\. ACX - 
+121\. ACX -Â 
 
 185\. Bisq -
 
@@ -453,9 +454,9 @@ Anyway like with most tax-related issues there are technicalities and areas that
 
 originally the ATO wording was along the lines of (paraphrasing) "if you purchased crypto for less than $10,000, then all capital gains for personal use are exempt". Then crypto went up x1000 and the ATO quickly backtracked because anyone with $5,000 for a cost base was sitting on $5,000,000 which could have been classified as exempt. not a chance.
 
- This is what is probably causing the most confusion, as everyone is trying to fall under this category however the wording has been cleared up a fair bit and people just don't want to read it because it does not tell them what they want to hear. 
+Â This is what is probably causing the most confusion, as everyone is trying to fall under this category however the wording has been cleared up a fair bit and people just don't want to read it because it does not tell them what they want to hear.Â 
 
-The way I read the current wording is that if you buy crypto because your favourite coffee shop which is just down the road is offering a 5% discount then 
+The way I read the current wording is that if you buy crypto because your favourite coffee shop which is just down the road is offering a 5% discount thenÂ 
 
 " The longer the period of time that a cryptocurrency is held, the less likely it is that it will be a personal use asset. "
 
@@ -475,7 +476,7 @@ Yes. However, it is imperative that the SMSF is appropriately structured and man
 
 Who can have a SMSF?
 
-Most Australians can setup a Self-Managed Superannuation Fund. Running a SMSF is an onerous task as you are responsible for making prudent investment decisions and must abide by strict regulations. 
+Most Australians can setup a Self-Managed Superannuation Fund. Running a SMSF is an onerous task as you are responsible for making prudent investment decisions and must abide by strict regulations.Â 
 
 The general industry rule of thumb is you need at least $200,000 in a SMSF for it to be worthwhile considering. This is because otherwise, the administration costs may be prohibitive.
 
@@ -553,7 +554,7 @@ Question
 
 I've purchased and traded cryptocurrency for other people (who funded the purchases) and need to pass the currency back to them at some stage.
 
-I'm hoping to clarify how to transfer ownership so that the currency isn't considered to be my asset, and the real owner is liable to pay any applicable capital gains tax. As cryptocurrency can be stored almost anonymously I'm concerned that I may have difficulty clearly demonstrating the transfer of cryptocurrency assets leaving a wallet/exchange in my name and going to another person's.  How will you recognize ownership of the currency?
+I'm hoping to clarify how to transfer ownership so that the currency isn't considered to be my asset, and the real owner is liable to pay any applicable capital gains tax. As cryptocurrency can be stored almost anonymously I'm concerned that I may have difficulty clearly demonstrating the transfer of cryptocurrency assets leaving a wallet/exchange in my name and going to another person's.Â  How will you recognize ownership of the currency?
 
 Answer
 
@@ -585,7 +586,7 @@ ___________________________________________
 
 - As a trader, you can value your portfolio at the end of the financial year based on market value of current "holding stock" to be used in conjunction with a profit & loss statement which determines trading activity over the financial year. In this case, the assessable profit would be reduced to $12k.
 
- "What happens if you sell after June 30? Are the dates almost irrelevant come tax time? And if I am classed as a trader one year, can I then be considered an investor the following year? Dependant on trading activity?"
+Â "What happens if you sell after June 30? Are the dates almost irrelevant come tax time? And if I am classed as a trader one year, can I then be considered an investor the following year? Dependant on trading activity?"
 
 - Again, this comes down to whether you're a trader or investor
 
@@ -595,13 +596,13 @@ ___________________________________________
 
 - This is still judged on a case-by-case basis
 
- If people don't do their tax until new regulations or possible law changes come into effect regarding CGT, will the old rules apply for that year or will the new rules cover any tax returns filed retrospectively?
+Â If people don't do their tax until new regulations or possible law changes come into effect regarding CGT, will the old rules apply for that year or will the new rules cover any tax returns filed retrospectively?
 
 - It's unusual for the ATO to issue retrospective rule, but it's possible
 
 - The rules regarding crypto have already been issued by the ATO
 
- If you're not a resident of Australia for tax purposes but you bought your crypto from an Aussie exchange are you still liable for CGT if you bought/sold/held during the tax year? 
+Â If you're not a resident of Australia for tax purposes but you bought your crypto from an Aussie exchange are you still liable for CGT if you bought/sold/held during the tax year?Â 
 
 - Foreign residents are likely to be subject to tax for any income earned in Australia
 
@@ -609,13 +610,13 @@ ___________________________________________
 
 - This should also be judged depending upon a case-by-case basis
 
- Same question for Australian residents with dual citizenships, can they claim CGT under an overseas country's tax if they aren't claiming Australian residency for tax purposes while living overseas? 
+Â Same question for Australian residents with dual citizenships, can they claim CGT under an overseas country's tax if they aren't claiming Australian residency for tax purposes while living overseas?Â 
 
 - Comes down to which country the person is considered to be a resident for tax purposes
 
 - Tests can be conducted to determine residency
 
- Is there an argument to say the ATO's rules came out too late for anyone to be able to form a direction that we needed to head in terms of trading strategy, or are the crypto to crypto trades applied retrospectively for the entire 2017-18 financial year?
+Â Is there an argument to say the ATO's rules came out too late for anyone to be able to form a direction that we needed to head in terms of trading strategy, or are the crypto to crypto trades applied retrospectively for the entire 2017-18 financial year?
 
 - There is not an argument to say the ATO was too slow
 
