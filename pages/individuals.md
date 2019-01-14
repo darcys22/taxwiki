@@ -1,1 +1,1 @@
-[Index to Fields](individualPages/index)
+[Index to Fields](IndividualPages/index)
