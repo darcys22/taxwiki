@@ -1,6 +1,6 @@
 # Concepts
 
-Tax consists mostly smaller concepts that all sum together to give you your taxable income. The idea of a concept is not defined anywhere in tax legislation but they are things that are recurring throughout all returns. The order here is generally the same as what is found in a return and where a return numbers a concept I have included that reference number here. Most of these won't apply to you, tax usually take a whitelist(?) approach to things that are included in your return (If a definition is relevant then it is included in your tax income)
+Tax consists mostly smaller concepts that all sum together to give you your [taxable income](concepts/taxable-income). The idea of a concept is not defined anywhere in tax legislation but they are things that are recurring throughout all returns. The order here is generally the same as what is found in a return and where a return numbers a concept I have included that reference number here. Most of these won't apply to you, the approach that tax legislation generally takes is that some thin is defined (Such as Salary and Wages Income), and if you meet that definition then that amount is to be included in your return (If a definition is relevant then it is included in your tax income).
 
 ## [The Australian Taxation Office](concepts/ato)
 The overarching government entity responsible for policing the Taxation Legislation.
@@ -9,6 +9,9 @@ The overarching government entity responsible for policing the Taxation Legislat
 
 ## [Tax File Number](concepts/tfn)
 The identification that every entity has that helps the Tax Office keep track
+
+## [Taxable Income](concepts/taxable-income)
+The taxable income is the basis for tax payable calculations. It is the sum of all income earned for the year less deductions
 
 ## Income
 
@@ -30,7 +33,8 @@ The identification that every entity has that helps the Tax Office keep track
 
 ### Attributed personal services income (Personal Services Income - PSI) (9)
 
-### Interest (10)
+### [Interest (10)](concepts/interest)
+Interest is the income from financial assets (Such as a savings account or loan)
 
 ### Dividends (11)
 
