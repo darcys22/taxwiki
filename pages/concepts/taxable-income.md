@@ -10,8 +10,7 @@ Taxable income is defined in itaa97 as
 
 ## Assessable Income
 
-Assessable income is defined as 6.1
-Assessable income consists of ordinary income and statutory income. Ordinary Income is not defined in the tax legislation except to say that it is "Ordinary Income earned by Ordinary Concepts". Case law has determined what is to be included as Ordinary Income and where the courts have ruled something to not be ordinary income the ATO/Government will usually amend the legislation to include that as statutory income.
+Assessable income is defined in s6.1 ITAA97 to consists of ordinary income and statutory income. Ordinary Income is not defined in the tax legislation except to say that it is "Ordinary Income earned by Ordinary Concepts". Case law has determined what is to be included as Ordinary Income and where the courts have ruled something to not be ordinary income the ATO/Government will usually amend the legislation to then include that as statutory income.
 
 There is generally considered to be three components of ordinary income.
 - Income from personal exertion (eg. salary and wages)
