@@ -5,7 +5,7 @@ This is another pretty straight forward concept that most people seem to intuiti
 The tax legislation doesn't specifically define Salary and Wages income instead it has been determined by case law to be [Ordinary Income](concpts/taxable-income).
 
 There are a few cases where the salary and wages meeting the definition of ordinary income has been defined. Brent vs FCT has mentioned this:
-> "The question whether the amount payable under the agreement was income in my opinion depends on whether it should properly be regarded as a sum earned by the appellant in relation to services rendered by her for the company. If so, it would not only be income within ordinary usages and concepts"
+> "The question whether the amount payable under the agreement was income in my opinion depends on whether it should properly be regarded as a sum earned by the appellant in relation to services rendered by her for the company. If so, it would ... be income within ordinary usages and concepts"
 
 ## General Information
 As it is case law and the definition revolves around "Services Rendered" (Personal Exertion) one should use common sense to determine if an amount is to be classified as salary and wages. If it is determined then the Gross Amount will be included in the entities income and entered into the form at the appropriate salary and wages field.
