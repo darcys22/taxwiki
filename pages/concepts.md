@@ -15,7 +15,8 @@ The taxable income is the basis for tax payable calculations. It is the sum of a
 
 ## Income
 
-### Salary or Wages (1)
+### [Salary or Wages (1)](concepts/salary-wages)
+Income Earned from Personal Exertion/Services Rendered
 
 ### Allowances, Earnings, Tips, Director's Fees (2)
 
